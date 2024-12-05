@@ -39,6 +39,7 @@ public class StartButtonManager : MonoBehaviour
 
         // 카드 전부 뒤집기 시작
         StartCoroutine(FlipAllCards());
+        nextUI.SetActive(true);  // 게임 UI 활성화
 
     }
 
@@ -47,7 +48,6 @@ public class StartButtonManager : MonoBehaviour
         cardGame.FlipAllCards(); // 카드 뒤집기 호출
         //// 시작 UI 비활성화
         startUI.SetActive(false);
-        nextUI.SetActive(true);  // 게임 UI 활성화
         yield return new WaitForSeconds(5f); // 애니메이션 대기 시간
         cardGame.FlipAllCards(); // 카드 뒤집기 호출
     }

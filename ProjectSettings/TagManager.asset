@@ -33,6 +33,7 @@ TagManager:
   - o3
   - m1
   - Stick
+  - DeactivateTag
   layers:
   - Default
   - TransparentFX

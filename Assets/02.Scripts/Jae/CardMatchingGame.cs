@@ -114,6 +114,8 @@ public class CardMatchingGame : MonoBehaviour
         {
             yield return StartCoroutine(startButtonManager.FlipAllCards());
         }
+
+        yield return new WaitForSeconds(0.5f); // 2초 대기
         if (otherUI != null) // 특정 UI가 있다면 비활성화
         {
             otherUI.SetActive(false);

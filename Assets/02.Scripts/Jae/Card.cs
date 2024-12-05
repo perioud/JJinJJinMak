@@ -16,11 +16,11 @@ public class Card : MonoBehaviour
     // 카드를 뒤집는 메서드
     public void Flip()
     {
-        if (!isMatched) // 매칭된 카드는 뒤집지 않음
-        {
+        //if (!isMatched) // 매칭된 카드는 뒤집지 않음
+        //{
             isFlipped = !isFlipped;
             flipCard.Flip();
-        }
+        //}
     }
      
     // 카드 매칭 성공 시 호출

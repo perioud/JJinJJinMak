@@ -4,24 +4,19 @@ using UnityEngine;
 
 public class UIChanger : MonoBehaviour
 {
-    public GameObject uiToDisable; // 비활성화할 UI
-    public GameObject uiToEnable;  // 활성화할 UI
+    public GameObject UIOn;
+    public GameObject UIOff;
 
     // 버튼 클릭 시 호출되는 함수
-    public void ChangeUI()
+    public void ToggleObjects()
     {
-        if (uiToDisable != null)
+        if (UIOn != null && UIOff != null)
         {
-            uiToDisable.SetActive(false); // UI 비활성화
-        }
+            // 게임 오브젝트1 활성화
+            UIOn.SetActive(true);
 
-        if (uiToEnable != null)
-        {
-            uiToEnable.SetActive(true);  // UI 활성화
+            // 게임 오브젝트2 비활성화
+            UIOff.SetActive(false);
         }
-
-        Debug.Log("UI 변경 완료: " +
-                  (uiToDisable != null ? $"{uiToDisable.name} 비활성화" : "비활성화할 UI 없음") + ", " +
-                  (uiToEnable != null ? $"{uiToEnable.name} 활성화" : "활성화할 UI 없음"));
     }
 }
