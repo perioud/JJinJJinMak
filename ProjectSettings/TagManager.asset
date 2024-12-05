@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hand
+  - ReturnArea
+  - RayInteractable
+  - InteractionObject
+  - White
+  - Red
+  - Blue
+  - OutlineHand
+  - UI
+  - Green
+  - Yellow
+  - StartButton
+  - Card
+  - Controller
+  - m2
+  - A1
+  - h3
+  - m3
+  - h1
+  - o2
+  - h4
+  - A3
+  - A2
+  - h2
+  - o1
+  - o4
+  - o3
+  - m1
+  - Stick
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Rail
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - GrabbedObject
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
