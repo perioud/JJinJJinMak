@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|c:\\users\\jkjk0\\desktop\\unitygit\\xrdemo\\assets\\02.scripts\\jihoon\\mgrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\mgrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\grabobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\grabobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|c:\\users\\jkjk0\\desktop\\unitygit\\xrdemo\\assets\\02.scripts\\jihoon\\handanimatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\handanimatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\arrowtouchrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\arrowtouchrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\cityrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\cityrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\gridslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\gridslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\gameuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\gameuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\slotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\slotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\pointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\pointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\DissolverAutomaticTest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\02.Scripts\\Jihoon\\DissolverAutomaticTest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\jihoon\\inab studio\\dissolve-fx\\helpers\\dissolverautomatictest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\jihoon\\inab studio\\dissolve-fx\\helpers\\dissolverautomatictest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\outline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\outline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\jihoon\\inab studio\\dissolve-fx\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\jihoon\\inab studio\\dissolve-fx\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\cityobjectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\cityobjectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\snaptogrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\snaptogrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HandAnimatorController.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\HandAnimatorController.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\HandAnimatorController.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\HandAnimatorController.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\HandAnimatorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T03:52:27.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mgrip.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\Mgrip.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\Mgrip.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\Mgrip.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\Mgrip.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAADwv20AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T03:22:27.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityRotation.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\CityRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\CityRotation.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\CityRotation.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\CityRotation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:21:56.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\InputManager.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\InputManager.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\InputManager.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:52:38.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\SoundManager.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:44:01.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GridSlot.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\GridSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\GridSlot.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\GridSlot.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\GridSlot.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvzYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:27:42.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameUIController.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\GameUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\GameUIController.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\GameUIController.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\GameUIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:20:19.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pointer.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Pointer.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Pointer.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Pointer.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Pointer.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAQwLgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:18:55.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DissolverAutomaticTest2.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\DissolverAutomaticTest2.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\DissolverAutomaticTest2.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\DissolverAutomaticTest2.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\DissolverAutomaticTest2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:42:43.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DissolverAutomaticTest.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\Jihoon\\INab Studio\\Dissolve-FX\\Helpers\\DissolverAutomaticTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Jihoon\\INab Studio\\Dissolve-FX\\Helpers\\DissolverAutomaticTest.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\Jihoon\\INab Studio\\Dissolve-FX\\Helpers\\DissolverAutomaticTest.cs",
+              "RelativeToolTip": "Assets\\Jihoon\\INab Studio\\Dissolve-FX\\Helpers\\DissolverAutomaticTest.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwEkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:39:21.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GrabObject.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\GrabObject.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\GrabObject.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\GrabObject.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\GrabObject.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAADwv6MAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:23:54.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrowTouchRotation.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\ArrowTouchRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\ArrowTouchRotation.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\ArrowTouchRotation.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\ArrowTouchRotation.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADwv1QAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:28:18.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Outline.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Outline.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Outline.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Outline.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Outline.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAApwM4AAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:08:52.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\Jihoon\\INab Studio\\Dissolve-FX\\Readme.txt",
+              "RelativeDocumentMoniker": "Assets\\Jihoon\\INab Studio\\Dissolve-FX\\Readme.txt",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\Jihoon\\INab Studio\\Dissolve-FX\\Readme.txt",
+              "RelativeToolTip": "Assets\\Jihoon\\INab Studio\\Dissolve-FX\\Readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-03T17:07:59.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CityObjectManager.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\CityObjectManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\CityObjectManager.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\CityObjectManager.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\CityObjectManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:03:33.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SnapToGrid.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\SnapToGrid.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\SnapToGrid.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\SnapToGrid.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\SnapToGrid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:43:44.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SlotManager.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\SlotManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\SlotManager.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\SlotManager.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\SlotManager.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAIwKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:27:09.12Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
