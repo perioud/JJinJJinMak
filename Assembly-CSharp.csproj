@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{105E90F0-8963-799A-38C1-65A6ABF03273}</ProjectGuid>
+    <ProjectGuid>{2C6553A4-718E-8268-E1E5-D17DD86C8521}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -72,6 +72,7 @@
     <Compile Include="Assets\02.Scripts\ActiveState.cs" />
     <Compile Include="Assets\Jihoon\INab Studio\Dissolve-FX\Helpers\DecalDissolve.cs" />
     <Compile Include="Assets\[K]Bird Flocks\Scripts\LandingSpot.cs" />
+    <Compile Include="Assets\02.Scripts\Jae\MoveAndReturn.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\UIManager.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\FindColor.cs" />
     <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\AmbientOcclusionModel.cs" />
@@ -80,6 +81,7 @@
     <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\MotionBlurModel.cs" />
     <Compile Include="Assets\Jihoon\CarAI\Scripts\carspawnerscript.cs" />
     <Compile Include="Assets\02.Scripts\Kwanwoo\XylophoneGame.cs" />
+    <Compile Include="Assets\02.Scripts\Jae\UIChanger.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\ArrowTouchRotation.cs" />
     <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Attributes\TrackballGroupAttribute.cs" />
@@ -688,18 +690,6 @@
     </Reference>
     <Reference Include="VisualDesignCafe.Editor.Events">
       <HintPath>Assets\Visual Design Cafe\Package Manager\VisualDesignCafe.Editor.Events.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Data\PlaybackEngines\AppleTVSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Common">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Common.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Android.Types">
@@ -1485,19 +1475,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj">
-      <Project>{EB27F842-64A5-7AF1-2533-E3CA121EEF0C}</Project>
+      <Project>{21013BCD-52ED-17DC-1517-17A8B18949FC}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj">
-      <Project>{DF1E4790-F58B-5FA3-D7CB-C37D1370511A}</Project>
+      <Project>{D2C71D08-326D-1EBF-24C6-FCB37979E166}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Hands.Samples.VisualizerSample.csproj">
-      <Project>{3A12D4F2-761E-43CD-C1D8-2D2D5D047753}</Project>
+      <Project>{76B12C64-7DFE-5D6D-233B-DA3DA2633B60}</Project>
       <Name>Unity.XR.Hands.Samples.VisualizerSample</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj">
-      <Project>{58318C94-BAC6-CFED-2858-A26DA0ECA2EE}</Project>
+      <Project>{FDF81D67-E5D2-47F9-40DF-80C0D7BD36EB}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor</Name>
     </ProjectReference>
   </ItemGroup>
